@@ -1,6 +1,12 @@
 // Let Catch2 know that we are using its main function.
 #define CATCH_CONFIG_MAIN
 #include "catch.hpp"
+/*
+* @module test fibinocci
+*
+* @author Krerkkiat
+*
+*/
 
 // This is possible because of -I../
 #include "fib.h"
